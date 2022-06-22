@@ -1,4 +1,4 @@
-Yottaxa - Debuffed Edited for RDM:
+Yottaxa - Debuffed Edited for RDM: (WIP)
 This is for addon version = '1.0.0.4'
 Backup your existing debuffed folder.
 Rename debuffed.lua to debuffed.old
