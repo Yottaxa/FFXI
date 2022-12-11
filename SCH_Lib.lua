@@ -628,7 +628,11 @@ function midcast(spell)
         equip(sets.midcast.DarkHelix)
     end
     if spellMap == 'Helix' then
+		if mBurst.value == true then
+		equip(sets.midcast.Helix_MB)
+		else
         equip(sets.midcast.Helix)
+		end
     end
 end
  
